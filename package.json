@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/esghhe/Note-Taker.git"
+    "url": "git+https://github.com/esghhe/E-commerce-Backend.git"
   },
   "keywords": [],
   "author": "Samuel Hagos",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
