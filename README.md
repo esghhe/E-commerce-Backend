@@ -51,6 +51,8 @@ THEN I am able to successfully create, update, and delete data in my database
   
 ## Usage
 💻   
+here is the walkthrough video link: 
+https://watch.screencastify.com/v/o7bcSn37X3yCfH9jNwp5
   
 Run the following command at the root of your project and answer the prompted questions:
 
